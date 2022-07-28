@@ -46,8 +46,8 @@ body {
     width: 400px;
     height: auto;
     display: inline-block;
-    margin-top: 35px;
-    margin-left: 150px;
+    margin-top: 150px;
+    margin-left: 200px;
 }
 
 .intro {
@@ -82,6 +82,7 @@ footer {
 .about{
     width: 500px;
     margin-top: -350px;
+    margin-left: -50px;
 }
 
 .kids{
@@ -136,13 +137,12 @@ footer {
 }
 
 .map{
-    margin-left: 800px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-left: 550px;
 }
 
 .information{
-    margin-left: 450px;
-    margin-top: -250px;
+    text-align: center;
     font-size: 25px;
     font-family: 'century gothic';
 }
